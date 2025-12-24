@@ -1,4 +1,4 @@
-<h1 align="center">🐉 bekasov / experienced coder </h1>
+<h1 align="center">🐉 bekasov / beggining coder </h1>
 
 ###
 
